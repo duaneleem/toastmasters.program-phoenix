@@ -3,8 +3,10 @@ title: Overview
 description: A guide on establishing a club towards Distinguished.
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide requires thinking about what your users are trying to do.
+I began my journey as a Toastmasters District 57 Club Coach in February 2023. Like other club coaches, my primary objective is to guide the club I'm assigned to achieve Distinguished status.
+
+To accomplish this, I have employed a variety of tools to enhance our club's performance. In the near future, I plan to share detailed guides on the diverse tools and strategies I've implemented during my tenure as Club Coach for Swift Plaza Toastmasters.
+
 
 ## Further reading
 
