@@ -12,6 +12,8 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
+# VIM Swap Files
+*.swp
 
 # environment variables
 .env
