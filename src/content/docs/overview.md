@@ -12,6 +12,8 @@ I've written my tools & techniques in the following sections:
 - Gap Analysis
 - Create Club Website
 - Newsletter
+- Guests Follow-ups
+- Membership Management
 
 
 ## Further reading
