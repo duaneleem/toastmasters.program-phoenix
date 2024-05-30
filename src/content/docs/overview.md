@@ -10,7 +10,8 @@ To accomplish this, I have employed a variety of tools to enhance our club's per
 I've written my tools & techniques in the following sections:
 
 - Gap Analysis
-- Create Club Website
+- Club Processes
+- Establish Club Website
 - Newsletter
 - Guests Follow-ups
 - Membership Management
