@@ -23,6 +23,7 @@ export default defineConfig({
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Gap Analysis', link: '/guides/gap-analysis' },
 						{ label: 'Creating Newsletters', link: '/guides/newsletter' },
+						{ label: 'Club Website', link: '/guides/club-website' },
 						{ label: 'Social Media', link: '/guides/social-media' },
 					],
 				},
