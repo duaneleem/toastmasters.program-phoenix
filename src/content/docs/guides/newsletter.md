@@ -25,6 +25,7 @@ What we have found effective is to send Newsletters to members and also guests. 
 
 The sections in our Newsletters:
 
+- Overview of the last meeting(s).
 - DCP Status
 - Invite audience to visit our club meetings.
 
